@@ -2,7 +2,7 @@
 sudo pacman -Sy
 
 # Install packages
-sudo pacman -S noto-fonts lightdm lightdm-gtk-greeter kitty vlc openbox tint2 thunar obconf sxiv git nitrogen xarchiver conky unzip tar lxappearance xfce4-settings picom obmenu-generator
+sudo xbps-install -S noto-fonts lightdm lightdm-gtk-greeter kitty vlc openbox tint2 Thunar obconf sxiv git nitrogen xarchiver conky unzip tar lxappearance xfce4-settings picom obmenu-generator
 
 echo "\033[45mGo grab a drink and some popcorn, it will take at least 20 minutes after you press yes\033[m"
 
