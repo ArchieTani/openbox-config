@@ -1,5 +1,5 @@
 # Update package index
-sudo pacman -Sy
+sudo xbps-install -Suv
 
 # Install packages
 sudo xbps-install -S noto-fonts lightdm lightdm-gtk-greeter kitty vlc openbox tint2 Thunar obconf sxiv git nitrogen xarchiver conky unzip tar lxappearance xfce4-settings picom obmenu-generator
